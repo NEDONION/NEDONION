@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1> Hi, I'm Jiacheng Hu 👋 </h1>
 
-<!--
-**NEDONION/NEDONION** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Former Machine Learning Enginner at <a href="https://www.kuaishou.com/">Kuaishou</a>
+</em></p>
 
-Here are some ideas to get you started:
+[![Linkedin: JiachengHu](https://img.shields.io/badge/-JiachengHu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiacheng-hu-456553198/)](https://www.linkedin.com/in/jiacheng-hu-456553198/)
+[![GitHub NEDONION](https://img.shields.io/github/followers/NEDONION?label=follow&style=social)](https://github.com/NEDONION)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=NEDONION.NEDONION)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+```javascript
+const Jiacheng = {
+
+  pronouns: "he" | "his",
+  code: [Java, Python, SQL, Javascript, Typescript],
+  tools: [Git, Bash(Linux), Hadoop, Redis, MongoDB, Docker, AWS, JUnit],
+  architecture: ["microservices", "design patterns", "system design"]
+
+}
+```
+
+## 📝 Websites
+- personal website and project: https://www.nedtextbook.com/
