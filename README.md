@@ -21,3 +21,7 @@ const Jiacheng = {
 
 ## 📝 Websites
 - personal website and project: https://www.nedtextbook.com/
+
+## 🔧 Tech Stack
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEDONION&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
