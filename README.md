@@ -1,6 +1,6 @@
 <h1> Hi, I'm Jiacheng Hu 👋 </h1>
 
-<p><em>Former Machine Learning Enginner at <a href="https://www.kuaishou.com/">Kuaishou</a>
+<p><em>Former Machine Learning Engineer at <a href="https://www.kuaishou.com/">Kuaishou</a>
 </em></p>
 
 [![Linkedin: JiachengHu](https://img.shields.io/badge/-JiachengHu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiacheng-hu-456553198/)](https://www.linkedin.com/in/jiacheng-hu-456553198/)
