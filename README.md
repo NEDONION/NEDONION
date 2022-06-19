@@ -20,7 +20,7 @@ const Jiacheng = {
 ```
 
 ## 📝 Websites
-- personal website and project: https://www.nedtextbook.com/
+- Personal website and projects: https://www.nedtextbook.com/
 
 ## 🔧 Tech Stack
 
