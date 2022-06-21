@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: JiachengHu](https://img.shields.io/badge/-JiachengHu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiacheng-hu-456553198/)](https://www.linkedin.com/in/jiacheng-hu-456553198/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NEDONION.NEDONION)
-<!-- [![GitHub NEDONION](https://img.shields.io/github/followers/NEDONION?label=follow&style=social)](https://github.com/NEDONION) -->
+[![GitHub NEDONION](https://img.shields.io/github/followers/NEDONION?label=follow&style=social)](https://github.com/NEDONION)
 
 ## :octocat: About me
 ```javascript
