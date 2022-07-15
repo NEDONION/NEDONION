@@ -18,8 +18,6 @@ const Jiacheng = {
 }
 ```
 
-## 📝 Websites
-- Personal website and projects: https://www.nedtextbook.com/
 
 ## 🔧 Tech Stack
 
