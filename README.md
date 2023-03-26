@@ -11,8 +11,8 @@
 const Jiacheng = {
 
   pronouns: "he" | "his",
-  code: [Java, Python, Javascript, Typescript],
-  tools: [Git, Bash(Linux), SQL, Cassandra, Redis, MongoDB, Kafka, Spark, Hadoop, Docker, JUnit, AWS],
+  code: [Java, Go, Python, Scala, Javascript, Typescript],
+  tools: [Git, Bash (Linux), SQL, Cassandra, Redis, MongoDB, Kafka, Hadoop, Docker, Kubernetes, AWS, GCP],
   architecture: ["microservices", "design patterns", "system design"]
 
 }
