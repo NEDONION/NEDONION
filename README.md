@@ -1,5 +1,7 @@
 <h1> Hi, I'm Jiacheng Hu 👋 </h1>
 
+<p><em>Former Software Engineer at <a href="https://www.walmart.com/">Walmart</a>
+</em></p>
 <p><em>Former Machine Learning Engineer at <a href="https://www.kuaishou.com/">Kuaishou</a>
 </em></p>
 
