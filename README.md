@@ -15,7 +15,7 @@ const Jiacheng = {
   pronouns: "he" | "his",
   code: [Java, Go, Kotlin, Javascript, Typescript, Python, Scala],
   tools: [Git, Linux, SQL, Cassandra, Redis, MongoDB, Kafka, Hadoop, Hive, Spark, Flink, Splunk,
-Docker, Kubernetes, AWS, GCP],
+Docker, Kubernetes, AWS, GCP, Azure],
   architecture: ["microservices", "design patterns", "system design"]
 
 }
