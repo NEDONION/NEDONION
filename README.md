@@ -1,4 +1,4 @@
-<h1> Hi, I'm Jiacheng Hu 👋 </h1>
+<h1> Hi, I'm Jiacheng (Lucas) Hu 👋 </h1>
 
 <p><em>SDE (Trust and Safety) at <a href="https://samsclub.com/">Sam's Club Tech</a>
 </em></p>
@@ -12,7 +12,7 @@
 
 ## :octocat: About me
 ```javascript
-const Jiacheng = {
+const Lucas = {
 
   pronouns: "he" | "his",
   code: [Java, Go, Kotlin, Javascript, Typescript, Python, Scala],
