@@ -1,7 +1,5 @@
 <h1> Hi, I'm Jiacheng (Lucas) Hu 👋 </h1>
 
-<p><em>SDE (Trust and Safety) at <a href="https://samsclub.com/">Sam's Club Tech</a>
-</em></p>
 <p><em>ex-SDE (Anti-Fraud, Messaging Platform) at <a href="https://www.walmart.com/">Walmart Global Tech</a>
 </em></p>
 <p><em>ex-SDE (Recommender System) at <a href="https://www.kuaishou.com/">Kuaishou Short Video</a>
