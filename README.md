@@ -1,6 +1,6 @@
 <h1> Hi, I'm Jiacheng (Lucas) Hu 👋 </h1>
 
-<p><em>ex-SDE (Anti-Fraud, Messaging Platform) at <a href="https://www.walmart.com/">Walmart Global Tech</a>
+<p><em>ex-SDE (Trust and Safety, Anti-Fraud, Messaging Platform) at <a href="https://www.walmart.com/">Walmart Global Tech</a>
 </em></p>
 <p><em>ex-SDE (Recommender System) at <a href="https://www.kuaishou.com/">Kuaishou Short Video</a>
 </em></p>
