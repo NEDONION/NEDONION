@@ -1,6 +1,6 @@
 <h1> Hi, I'm Jiacheng (Lucas) Hu 👋 </h1>
 
-<p><em>ex-SDE (Seller Monetization Pricing Platform) at <a href="https://ebay/">eBay</a>
+<p><em>ex-SDE (Seller Monetization Pricing Platform) at <a href="https://ebay.com/">eBay</a>
 </em></p>
 <p><em>ex-SDE (Trust and Safety, Messaging Platform) at <a href="https://www.walmart.com/">Walmart Global Tech</a>
 </em></p>
