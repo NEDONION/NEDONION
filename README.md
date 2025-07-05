@@ -1,8 +1,10 @@
 <h1> Hi, I'm Jiacheng (Lucas) Hu 👋 </h1>
 
-<p><em>ex-SDE (Trust and Safety, Anti-Fraud, Messaging Platform) at <a href="https://www.walmart.com/">Walmart Global Tech</a>
+<p><em>ex-SDE (Seller Monetization Pricing Platform) at <a href="https://ebay/">eBay</a>
 </em></p>
-<p><em>ex-SDE (Recommender System) at <a href="https://www.kuaishou.com/">Kuaishou Short Video</a>
+<p><em>ex-SDE (Trust and Safety, Messaging Platform) at <a href="https://www.walmart.com/">Walmart Global Tech</a>
+</em></p>
+<p><em>ex-MLE (Recommender System) at <a href="https://www.kuaishou.com/">Kuaishou Short Video</a>
 </em></p>
 
 [![Linkedin: JiachengHu](https://img.shields.io/badge/-JiachengHu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiacheng-hu-56788b248/)](https://www.linkedin.com/in/jiacheng-hu-56788b248/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NEDONION.NEDONION)
