@@ -1,4 +1,4 @@
-<h1> Hi, I'm Jiacheng (Lucas) Hu 👋 </h1>
+<h1> Hi, I'm Lucas (Jiacheng) Hu 👋 </h1>
 
 <p><em>ex-SDE (Seller Monetization Pricing Platform) at <a href="https://ebay.com/">eBay</a>
 </em></p>
