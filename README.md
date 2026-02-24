@@ -1,12 +1,12 @@
 <h1> Hi, I'm Lucas (Jiacheng) Hu 👋 </h1>
 
-<p><em>SDE (Growth Marketing) at <a href="https://ebay.com/">eBay</a>
+<p><em>SDE (AI Native @Hi Lab) at <a href="https://xiaohongshu.com/">RedNote 小红书</a>
   </em></p>
-<p><em>ex-SDE (Seller Monetization Pricing) at <a href="https://ebay.com/">eBay</a>
+<p><em>ex-SDE (Growth Marketing, Seller Monetization Pricing) at <a href="https://ebay.com/">eBay</a>
 </em></p>
 <p><em>ex-SDE (Trust and Safety, Messaging Platform) at <a href="https://www.walmart.com/">Walmart Global Tech</a>
 </em></p>
-<p><em>ex-MLE (E-commerce Recommender System) at <a href="https://www.kuaishou.com/">Kuaishou Short Video</a>
+<p><em>ex-MLE (E-commerce Recommender System) at <a href="https://www.kuaishou.com/">Kuaishou 快手</a>
 </em></p>
 
 [![Linkedin: JiachengHu](https://img.shields.io/badge/-JiachengHu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiacheng-lucas-hu/)](https://www.linkedin.com/in/jiacheng-lucas-hu/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NEDONION.NEDONION)
